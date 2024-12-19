@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    margin-top: 10px;
+   
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+    
+}
+h1{
+    font-family: system-ui;
+   
+}
+.text-center{
+    font-family: system-ui;
+    
+}
+.acerca{
+    margin-top: 20PX;
+    
+    text-align: justify;
+
+}
+h2{
+    text-align: center;
+}
+.card-text {
+    
+    text-align: center;
+}
+.info{
+    text-align: justify;
+}
+#info{
+    text-align: justify;
+}
